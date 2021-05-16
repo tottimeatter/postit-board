@@ -1,5 +1,7 @@
 # postit-board
 
+This is a Vue.js project
+
 ## Project setup
 ```
 npm install
